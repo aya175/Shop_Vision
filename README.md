@@ -88,7 +88,7 @@ cd myfrontend
 npm start
 -------------------------
 Backend:
-cd tiktokjam
+cd pipVision
 python manage.py runserver
 ```
 
