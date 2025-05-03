@@ -92,6 +92,23 @@ cd tiktokjam
 python manage.py runserver
 ```
 
+
+
+
+
+
+![image alt](https://github.com/aya175/Shop_Vision/blob/main/FIND.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
 ### Google Vision API Help
 
 This is a small tutorial regarding how to use the API key with the Google Vision API.
